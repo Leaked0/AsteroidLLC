@@ -1,0 +1,20 @@
+costura.websocket-sharp.dll.compressed|1.0.2.36182|websocket-sharp, Version=1.0.2.36182, Culture=neutral, PublicKeyToken=5660b08a1845a91e|websocket-sharp.dll|D0B9977555EAE2D116D103613DF8D12A318E8195
+costura.costura.dll.compressed|5.0.2.0|Costura, Version=5.0.2.0, Culture=neutral, PublicKeyToken=null|Costura.dll|DC4B6E415DF4BAFDA5C2A6228D465D64383A8DAF
+costura.costura.pdb.compressed|||Costura.pdb|51DBB96092007F8A2F4551B197DA996E4B48C217
+costura.mailkit.dll.compressed|2.11.0.0|MailKit, Version=2.11.0.0, Culture=neutral, PublicKeyToken=4e064fe7c44a8f1b|MailKit.dll|FC527879FDCF1C6A239228498FBF01A3A5AE1287
+costura.mailkit.pdb.compressed|||MailKit.pdb|089A8035D8CC23BEB05384E66037A9FB4EB2AC87
+costura.metroframework.design.dll.compressed|1.4.0.0|MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a|MetroFramework.Design.dll|7BE378E382E43EAE84F1567B3570BCA9A67E7697
+costura.metroframework.fonts.dll.compressed|1.4.0.0|MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a|MetroFramework.Fonts.dll|CC72536B84384EC8479B9734B947DCE885EF5D31
+costura.metroframework.dll.compressed|1.4.0.0|MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a|MetroFramework.dll|D0AA8038A92EB43DEF2FFFBBF4114B02636117C5
+costura.microsoft.web.webview2.core.dll.compressed|1.0.824.0|Microsoft.Web.WebView2.Core, Version=1.0.824.0, Culture=neutral, PublicKeyToken=2a8ab48044d2601e|Microsoft.Web.WebView2.Core.dll|F2282334E5C51661EC6E830B6CAA1B9775861C33
+costura.microsoft.web.webview2.winforms.dll.compressed|1.0.824.0|Microsoft.Web.WebView2.WinForms, Version=1.0.824.0, Culture=neutral, PublicKeyToken=2a8ab48044d2601e|Microsoft.Web.WebView2.WinForms.dll|8EF4D534DC99FF8DFE1FC77D307F6B0F529E9EAC
+costura.microsoft.web.webview2.wpf.dll.compressed|1.0.824.0|Microsoft.Web.WebView2.Wpf, Version=1.0.824.0, Culture=neutral, PublicKeyToken=2a8ab48044d2601e|Microsoft.Web.WebView2.Wpf.dll|AC35E8389EF7786CF8555AB600A1030CB4FC5146
+costura.mimekit.dll.compressed|2.11.0.0|MimeKit, Version=2.11.0.0, Culture=neutral, PublicKeyToken=bede1c8a46c66814|MimeKit.dll|FDF72973EE61634882097E59A0D83D862A4ACBC4
+costura.mimekit.pdb.compressed|||MimeKit.pdb|749E3F183D2DDC39AA5935180D8F68081CE324C6
+costura.bouncycastle.crypto.dll.compressed|1.8.10.0|BouncyCastle.Crypto, Version=1.8.10.0, Culture=neutral, PublicKeyToken=0e99375e54769942|BouncyCastle.Crypto.dll|A48CAF79E6DE1EECB588C3B7C4550CA4D66F4A59
+costura.system.buffers.dll.compressed|4.0.3.0|System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Buffers.dll|2F410A0396BC148ED533AD49B6415FB58DD4D641
+costura.system.diagnostics.diagnosticsource.dll.compressed|4.0.1.0|System.Diagnostics.DiagnosticSource, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Diagnostics.DiagnosticSource.dll|85DC92EDD4B0049ED9049E075C4DEF8A3D64E43B
+costura.zeroit.framework.codetextbox.dll.compressed|1.0.7033.7890|Zeroit.Framework.CodeTextBox, Version=1.0.7033.7890, Culture=neutral, PublicKeyToken=fb8aa12b994ef61b|Zeroit.Framework.CodeTextBox.dll|66EE5A1DB41D047E109C057E8B65B8F2DE24A2DF
+costura.anonfileapi.dll.compressed|1.0.0.5|AnonFileAPI, Version=1.0.0.5, Culture=neutral, PublicKeyToken=null|AnonFileAPI.dll|099F81F1A4DFDD3ABD19B0AB500A579748BFA6F4
+costura.dnlib.dll.compressed|2.0.0.0|dnlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=50e96378b6e77999|dnlib.dll|5D8189E352F507576E649A30D62D68C23E15A460
+costura.siticone.ui.dll.compressed|1.0.0.6|Siticone.UI, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null|Siticone.UI.dll|F28104D7099CCA08AB84BF1AD1ACB9233CBF116F
