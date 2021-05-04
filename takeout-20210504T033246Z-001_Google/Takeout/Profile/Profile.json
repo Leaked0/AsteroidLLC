@@ -1,0 +1,14 @@
+{
+  "name": {
+    "givenName": "Asteroid",
+    "familyName": "LLC",
+    "formattedName": "Asteroid LLC"
+  },
+  "displayName": "Asteroid LLC",
+  "emails": [{
+    "value": "claimasteroidllc@gmail.com"
+  }],
+  "gender": {
+    "type": "male"
+  }
+}

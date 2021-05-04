@@ -1,0 +1,6 @@
+The Google Workspace Marketplace Takeout folder contains following files:
+    1. One file per app listing, in JSON format, with name prefixed by 'AppListing_'
+       This file includes the details of the app listing like name, description, application icons, support URLs and add-on details.
+    2. 'reviews.json' containing reviews posted by the user.
+    3. README file.
+  
