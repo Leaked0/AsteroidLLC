@@ -8,11 +8,35 @@
 
 
 
+<br>
+
+## Free Shits
+<br>
+Google Account ID: "979831271273"<br>Emails: "claimasteroidllc@gmail.com" & "best71223@gmail.com"<br>IP: "46.11.13.30" ("GO Malta")<br>https://i.imgur.com/LpUEZWf.png<br>Idk & Idc: "71223"<br><br>
 
 
+"Contacts:"
+```
+BEGIN:VCARD
+VERSION:3.0
+item1.EMAIL;TYPE=INTERNET:best71223@gmail.com
+item1.X-ABLabel:
+END:VCARD
+```
+Clean for retards: `best71223@gmail.com`
 
-
-
+"My Activity(Search):"
+```
+"Empty Gift boxes "Malta""
+"empty gift hamper baskets "malta""
+"empty hamper baskets "malta""
+"Gift Hampers "Malta""
+"justgiftsmalta"
+"Packaging | Just Gifts "Malta""
+"Luxury Gift Hampers with Free Delivery - Gift Hampers "Malta""
+"Another word for seller" LOL SO SMART!!
+```
+All this to say that Asteroid is scam and that it is useless to go to the scammers, the goal not being to make a dox you do what you want with this information.
 
 
 
