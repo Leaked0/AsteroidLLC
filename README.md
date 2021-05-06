@@ -13,7 +13,7 @@
 ## Free Shits
 <br>
 
-Actual: 46.11.151.167<br>
+A Recent One: 46.11.151.167<br>
 Old: [For 46.11.13.30 | H4X0R](https://pastebin.com/nHg5FLUt)
 
 
