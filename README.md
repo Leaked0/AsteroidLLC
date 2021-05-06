@@ -13,7 +13,8 @@
 ## Free Shits
 <br>
 
-[For 46.11.13.30 | H4X0R](https://pastebin.com/nHg5FLUt)
+Actual: 46.11.151.167<br>
+Old: [For 46.11.13.30 | H4X0R](https://pastebin.com/nHg5FLUt)
 
 
 Google Account ID: "979831271273"<br>Emails: "claimasteroidllc@gmail.com" & "best71223@gmail.com"<br>IP: "46.11.13.30" ("GO Malta")<br>https://i.imgur.com/LpUEZWf.png<br>Idk & Idc: "71223"<br>
