@@ -43,7 +43,22 @@ Clean for retards: `best71223@gmail.com`
 ```
 All this to say that Asteroid is scam and that it is useless to go to the scammers, the goal not being to make a dox you do what you want with this information.
 
-
+<!--
+Legal Name: Joswel
+Legal Surname: Grima
+IP Address: 78.133.35.130
+ID Card No. : N/A
+Date Of Birth: 8th March 2005
+Relashionship: Dating Emi Emilia
+Phone Number: +356 79298273
+Main Email: joswelgrimamt@gmail.com
+Job: Owner/Founder JG Enterprise
+Address: Zejtun, Malta
+Discord Account: bandit#0001 + null#9223
+School: St.Thomas More Collage, Zejtun Secondary Collage
+Interests: Security and Software Development
+Instagram: www.instagram.com/joswel_gtr
+-->
 
 
 
