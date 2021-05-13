@@ -1,0 +1,80 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>AsteroidLLC</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>net472</TargetFramework>
+    <Prefer32Bit>True</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>8.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="costura\costura.dll.compressed" />
+    <None Remove="costura\costura.pdb.compressed" />
+    <None Remove="costura\mailkit.dll.compressed" />
+    <None Remove="costura\mailkit.pdb.compressed" />
+    <None Remove="costura\metroframework.design.dll.compressed" />
+    <None Remove="costura\metroframework.fonts.dll.compressed" />
+    <None Remove="costura\metroframework.dll.compressed" />
+    <None Remove="costura\microsoft.web.webview2.core.dll.compressed" />
+    <None Remove="costura\microsoft.web.webview2.winforms.dll.compressed" />
+    <None Remove="costura\microsoft.web.webview2.wpf.dll.compressed" />
+    <None Remove="costura\mimekit.dll.compressed" />
+    <None Remove="costura\mimekit.pdb.compressed" />
+    <None Remove="costura\bouncycastle.crypto.dll.compressed" />
+    <None Remove="costura\system.buffers.dll.compressed" />
+    <None Remove="costura\system.diagnostics.diagnosticsource.dll.compressed" />
+    <None Remove="costura\websocket-sharp.dll.compressed" />
+    <None Remove="costura\zeroit.framework.codetextbox.dll.compressed" />
+    <None Remove="costura\anonfileapi.dll.compressed" />
+    <None Remove="costura\dnlib.dll.compressed" />
+    <None Remove="costura\siticone.ui.dll.compressed" />
+    <None Remove="costura\metadata" />
+    <EmbeddedResource Include="costura\costura.dll.compressed" />
+    <EmbeddedResource Include="costura\costura.pdb.compressed" />
+    <EmbeddedResource Include="costura\mailkit.dll.compressed" />
+    <EmbeddedResource Include="costura\mailkit.pdb.compressed" />
+    <EmbeddedResource Include="costura\metroframework.design.dll.compressed" />
+    <EmbeddedResource Include="costura\metroframework.fonts.dll.compressed" />
+    <EmbeddedResource Include="costura\metroframework.dll.compressed" />
+    <EmbeddedResource Include="costura\microsoft.web.webview2.core.dll.compressed" />
+    <EmbeddedResource Include="costura\microsoft.web.webview2.winforms.dll.compressed" />
+    <EmbeddedResource Include="costura\microsoft.web.webview2.wpf.dll.compressed" />
+    <EmbeddedResource Include="costura\mimekit.dll.compressed" />
+    <EmbeddedResource Include="costura\mimekit.pdb.compressed" />
+    <EmbeddedResource Include="costura\bouncycastle.crypto.dll.compressed" />
+    <EmbeddedResource Include="costura\system.buffers.dll.compressed" />
+    <EmbeddedResource Include="costura\system.diagnostics.diagnosticsource.dll.compressed" />
+    <EmbeddedResource Include="costura\websocket-sharp.dll.compressed" />
+    <EmbeddedResource Include="costura\zeroit.framework.codetextbox.dll.compressed" />
+    <EmbeddedResource Include="costura\anonfileapi.dll.compressed" />
+    <EmbeddedResource Include="costura\dnlib.dll.compressed" />
+    <EmbeddedResource Include="costura\siticone.ui.dll.compressed" />
+    <EmbeddedResource Include="costura\metadata" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="dnlib" />
+    <Reference Include="Microsoft.Web.WebView2.WinForms" />
+    <Reference Include="Microsoft.Web.WebView2.Core" />
+    <Reference Include="MetroFramework" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="Zeroit.Framework.CodeTextBox" />
+    <Reference Include="Siticone.UI" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="AnonFileAPI" />
+    <Reference Include="Anarchy" />
+    <Reference Include="MimeKit" />
+    <Reference Include="MailKit" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+  </ItemGroup>
+</Project>
