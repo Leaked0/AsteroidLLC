@@ -2,6 +2,8 @@
 <br>1) Costura = Embedded DLLs<br>2) I failed to upload the DLLs at the good place so the DLLs are [HERE](https://github.com/HideakiAtsuyo/AsteroidLLC/tree/main/1.5.1/NotEmbeddedDLLs)<br>3) There is no help with them<br><br>
 
 
+![](https://i.imgur.com/VLqQ5lT.gif)
+
 
 ## Versions
 <br>- 1.2.1<br>- 1.5.1<br>- 1.7<br>- 1.9<br>- 2.0
